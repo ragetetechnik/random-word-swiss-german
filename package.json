@@ -1,6 +1,6 @@
 {
   "name": "random-word-swiss-german",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "get a random swiss german noun",
   "main": "index.js",
   "scripts": {
