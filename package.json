@@ -1,0 +1,33 @@
+{
+  "name": "random-word-swiss-german",
+  "version": "1.0.0",
+  "description": "get a random swiss german noun",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragetetechnik/random-word-swiss-german.git"
+  },
+  "keywords": [
+    "random",
+    "words",
+    "swiss",
+    "switzerland",
+    "generator",
+    "string",
+    "word",
+    "random"
+  ],
+  "author": "ragetetechnik",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ragetetechnik/random-word-swiss-german/issues"
+  },
+  "homepage": "https://github.com/ragetetechnik/random-word-swiss-german#readme"
+}
