@@ -10,4 +10,4 @@ function getRandomInt(max) {
     return Math.floor(Math.random() * max);
 }
 
-module.exports.getWord = getWord;
+module.exports = getWord;

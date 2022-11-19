@@ -4,7 +4,8 @@
   "description": "get a random swiss german noun",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,9 @@
   ],
   "author": "ragetetechnik",
   "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
   "bugs": {
     "url": "https://github.com/ragetetechnik/random-word-swiss-german/issues"
   },
