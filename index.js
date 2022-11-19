@@ -1,7 +1,9 @@
+const data = require('./list.json');
+
 function getWord(){
     let words;
-    words = ['Souerei','Schoppe','Pöstler','Cheib','Beiz']
-    return words[getRandomInt(words.length-1)]
+    words = data.words;
+    return words[getRandomInt(words.length-1)];
 }
 
 function getRandomInt(max) {
